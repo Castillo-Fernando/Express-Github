@@ -1,4 +1,4 @@
 Proyecto: Git Conflicts
-Responsable: TU_NOMBRE
+Responsable: Fernando magaña castillo
 Version: 1.0
 
